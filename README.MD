@@ -1,5 +1,9 @@
-# Aplicacion de tareas con Node.
+# Aplicacion de Tareas 
 
-correr el comando ```npm install``` en el directorio del proyecto
+Aplicacion en Node.js, con menu de tareas
 
-![app_tareas](./evidencia/app_tareas.PNG "app_tareas")
+<br/>
+
+![app_tareas](./galeria/app_tareas.PNG "app_tareas")
+
+ver archivo package.json para instalar dependecias
